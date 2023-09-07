@@ -1,5 +1,5 @@
 ### Hi there 👋
-Growing up I was always interested in the sciences and technology. In high school, I excelled in math and science classes, which led me to pursue a degree in engineering. I went on to earn my Bachelor’s degree in Engineering and am currently working on my Master’s in Civil Engineering. After I finish my degree, I plan to use my knowledge to help improve infrastructure in developing countries.
+Growing up I was always interested in the sciences and technology. In high school, I excelled in math and science classes, which led me to pursue a degree in engineering. I went on to earn my Bachelor’s degree in Engineering and am currently working on my Master’s in Computer Science  Engineering. After I finish my degree, I plan to use my knowledge to help improve technology  in developing countries.
 <!--
 **sayendra99/sayendra99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
